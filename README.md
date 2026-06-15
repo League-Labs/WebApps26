@@ -8,3 +8,6 @@ Web Applications Team, 2026
 * Eric, ericbusboom
 * Evan, evank2008
 * Anita, anitaqn
+
+
+Visit the [wiki for more](https://github.com/League-Labs/WebApps26/wiki/Project-Ideas)
