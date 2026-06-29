@@ -8,7 +8,7 @@ Web Applications Team, 2026
 * Eric, ericbusboom
 * Evan, evank2008
 * Anita, anitaqn
-* Timothy , huaihisungLiu
+* Timothy , huaihisungLiu, [Water Quality](https://github.com/huaihisungLiu/Water-Quality.git)
 
 
 Visit the [wiki for more](https://github.com/League-Labs/WebApps26/wiki/Project-Ideas)
