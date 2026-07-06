@@ -2,7 +2,7 @@
 Web Applications Team, 2026
 
 
-* Joshua, 123456789degrees
+* Joshua, 123456789degrees, [Tennis Journal](https://github.com/123456789degrees/tennis-journal-app)
 * Derek, ILearnToCodeHooray
 * Ian, Rocketeer-Bucketeer
 * Eric, ericbusboom
