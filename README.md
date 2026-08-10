@@ -7,7 +7,8 @@ Web Applications Team, 2026
 ### Joshua
 - GitHub: [123456789degrees](https://github.com/123456789degrees)
 - Repo: [tennis-journal-app](https://github.com/123456789degrees/tennis-journal-app)
-- Website: <https://123456789degrees.github.io/tennis-journal-app/>
+- [Wireframes](https://123456789degrees.github.io/tennis-journal-app/)
+- [Website](https://matchmind-olive.vercel.app)
 
 ### Derek
 - GitHub: [ILearnToCodeHooray](https://github.com/ILearnToCodeHooray)
